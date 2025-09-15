@@ -115,6 +115,7 @@ Able to connect to vm and run both backend and frontend. I decided to use a pers
 To be able to get access to the frontend I changed the Network settings for my vm
 
 Frontend (waiting for backend)
+http://40.118.19.233:5173/
 ![alt text](<Screenshot 2025-09-15 115617.png>)
 
 Backend (window that should appear)
